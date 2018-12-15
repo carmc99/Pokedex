@@ -1,2 +1,3 @@
+<img src="https://camo.githubusercontent.com/87b643765c31e066e1adc616b59d1fda9b805665/68747470733a2f2f706f7365722e707567782e6f72672f676c6f7564656d616e732f73686f7070696e67636172742f762f756e737461626c65" alt="Latest Unstable Version" data-canonical-src="https://poser.pugx.org/gloudemans/shoppingcart/v/unstable" style="max-width:100%;">
 # Pokedex
 Una web para realizar consulta de Pokemons haciendo el simil a un Pokedex, se implementara un CRUD, utilizando la plantilla adminLTE en la capa de la vista, con algunas adaptaciones, ademas se utiliza el FrameWork de php - laravel en el backEnd y Angular en el FrontEnd.
